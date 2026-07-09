@@ -84,3 +84,4 @@
       document.querySelector(`.product-panel[data-panel="${btn.dataset.tab}"]`).classList.add('active');
     });
   });
+ 
